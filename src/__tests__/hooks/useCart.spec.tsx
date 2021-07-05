@@ -30,7 +30,7 @@ const initialStoragedData = [
   },
 ];
 
-describe('useCart Hook', () => {
+fdescribe('useCart Hook', () => {
   beforeEach(() => {
     apiMock.reset();
 
